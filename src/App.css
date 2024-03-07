@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: cadetblue;
+}
+
+.card {
+  padding: 2em;
+  background-image: url();
+  
+}
+.card-body{
+    padding: 12em;
+    background-color: gray;
+}
+
+body{
+    background-color: black;
+}
+
+.side-body{
+    background-color: bisque;
+}
